@@ -1,0 +1,44 @@
+{
+  "poli": [
+    {
+      "name": "Poli Umum",
+      "id": "1"
+    },
+    {
+      "name": "Poli Gigi",
+      "id": "2"
+    },
+    {
+      "name": "Poli Kulit",
+      "id": "3"
+    },
+    {
+      "name": "Poli Mata",
+      "id": "4"
+    },
+    {
+      "name": "Poli Dalam",
+      "id": "7"
+    },
+    {
+      "name": "Poli Dalam",
+      "id": "9"
+    }
+  ],
+  "patients": [
+    {
+      "tanggal": "2023-04-20",
+      "name": "hh",
+      "usia": "33",
+      "poli": "Poli Umum",
+      "id": 6
+    },
+    {
+      "tanggal": "2023-04-22",
+      "name": "666",
+      "usia": "666",
+      "poli": "Poli Dalam",
+      "id": 8
+    }
+  ]
+}

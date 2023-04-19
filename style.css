@@ -1,0 +1,200 @@
+h1 {
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    text-shadow: 1px 1px 2px #ccc;
+    
+    padding: 10px;
+    
+    
+  }
+  
+  
+          td {
+              border: 1px solid black;
+              padding: 5px;
+          }
+  
+          table {
+              color: black;
+          }
+  
+          thead {
+              color: black;
+          }
+          body {
+          background-color: #bbbbbb;
+          font-family: 'Roboto', sans-serif;
+        }
+        header {
+          background-color: #4FCCA3;
+          color: white;
+          padding: 20px;
+          text-align: center;
+        }
+        h1 {
+          margin: 0;
+        }
+        nav {
+          background-color: #3A3F47;
+          color: white;
+          padding: 10px;
+          text-align: center;
+        }
+        section {
+          background-color: white;
+          padding: 20px;
+          text-align: center;
+        }
+        footer {
+          background-color: #1A1A1A;
+          color: white;
+          padding: 10px;
+          text-align: center;
+        }
+       
+  
+  
+  .delete-btn {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .delete-btn:hover {
+    background-color: #c40000;
+  }
+  
+  .edit-btn {
+    background-color: #F8B501;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .edit-btn:hover {
+    background-color: #FFD344;
+  }
+  
+  form {
+    display: auto;
+    max-width:auto;
+    margin:  auto;
+    
+  align-items: center;
+  justify-content: center;
+    border-radius: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e6e6e6;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0062cc;
+  }
+  
+  /* Style untuk select */
+  select {
+   
+    padding: 8px 16px; /* menambahkan padding */
+    font-size: 16px; /* menentukan ukuran font */
+    border: none; /* menghilangkan border */
+    background-color: #f5f5f5; /* menentukan warna background */
+    border-radius: 8px; /* membuat sudut border lebih melengkung */
+    box-shadow: none; /* menghilangkan shadow */
+    outline: none; /* menghilangkan outline */
+    cursor: pointer; /* mengubah kursor saat hover */
+  }
+  
+  
+  
+  /* Style untuk hover option */
+  option:hover {
+    background-color: #f5f5f5; /* menentukan warna background saat hover */
+  }
+  
+  /* Style untuk tabel */
+  table {
+    border-collapse: collapse; /* menggabungkan border yang sama */
+    width: 100%; /* menentukan lebar tabel */
+    margin-bottom: 16px; /* menambahkan margin bawah */
+    border-collapse: separate;
+  border-spacing: 0 5px; /* jarak antara sel dan garis bawah */
+  }
+  
+  /* Style untuk sel header */
+  th {
+    background-color: #999999; /* menentukan warna background */
+    text-align: center; /* menentukan alignment teks */
+    font-weight: bold; /* menentukan ketebalan font */
+    padding: 8px 16px; /* menambahkan padding */
+    border: none; /* menentukan border */
+    
+  }
+  
+  /* Style untuk sel data */
+  td {
+    padding: 8px 16px; /* menambahkan padding */
+    border: none; /* menentukan border */
+     background-color: #f7f7f7; /* menentukan warna background */
+    text-align: center; /* menentukan alignment teks */
+    border-radius: 3px; /* membuat sudut border lebih melengkung */
+    padding: 8px 16px; /* menambahkan padding */
+    border: none; /* menentukan border */
+  }
+  
+  /* Style untuk sel data saat dihover */
+  tr:hover td {
+    background-color: #dddddd; /* menentukan warna background saat hover */ 
+    text-align: center; /* menentukan alignment teks */
+    padding: 8px 16px; /* menambahkan padding */
+    border: none; /* menentukan border */
+  }
+  
+  /* Style the search box */
+  .search-box {
+          display: inline-block;
+          margin-right: 8px;
+        }
+  
+        /* Style the search button */
+        .search-btn {
+          padding: 8px 12px;
+          border: none;
+          background-color: #007bff; /* Blue color */
+          color: #fff;
+          font-size: 16px;
+          cursor: pointer;
+        }
+  
+        /* Style the Font Awesome icon */
+        .search-icon {
+          margin-right: 8px;
+        }
+  
+  
